@@ -1,0 +1,428 @@
+/home/mitrai/isutest/gitback
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+
+created by: "a_email_Modifications_m"
+Version: 1.0.0.1
+
+file holding the Login token
+
+Updating repo (delta pull) "reusable_assets"
+Backup git_backup/MitraInnovationRepo/reusable_assets to ./archives/MitraInnovationRepo/20210401/reusable_assets.tar.gz...
+
+Updating repo (delta pull) "bimaas"
+Backup git_backup/MitraInnovationRepo/bimaas to ./archives/MitraInnovationRepo/20210401/bimaas.tar.gz...
+
+Updating repo (delta pull) "OpenSourceBIMaaS"
+Backup git_backup/MitraInnovationRepo/OpenSourceBIMaaS to ./archives/MitraInnovationRepo/20210401/OpenSourceBIMaaS.tar.gz...
+
+Updating repo (delta pull) "swyft"
+Backup git_backup/MitraInnovationRepo/swyft to ./archives/MitraInnovationRepo/20210401/swyft.tar.gz...
+
+Updating repo (delta pull) "FoodAssured"
+Backup git_backup/MitraInnovationRepo/FoodAssured to ./archives/MitraInnovationRepo/20210401/FoodAssured.tar.gz...
+
+Updating repo (delta pull) "Kipstor"
+Backup git_backup/MitraInnovationRepo/Kipstor to ./archives/MitraInnovationRepo/20210401/Kipstor.tar.gz...
+
+Updating repo (delta pull) "mdl"
+Backup git_backup/MitraInnovationRepo/mdl to ./archives/MitraInnovationRepo/20210401/mdl.tar.gz...
+
+Updating repo (delta pull) "cal"
+Backup git_backup/MitraInnovationRepo/cal to ./archives/MitraInnovationRepo/20210401/cal.tar.gz...
+
+Updating repo (delta pull) "MitraDevPractices"
+Backup git_backup/MitraInnovationRepo/MitraDevPractices to ./archives/MitraInnovationRepo/20210401/MitraDevPractices.tar.gz...
+
+Updating repo (delta pull) "Gamification"
+Backup git_backup/MitraInnovationRepo/Gamification to ./archives/MitraInnovationRepo/20210401/Gamification.tar.gz...
+
+Updating repo (delta pull) "PI"
+Backup git_backup/MitraInnovationRepo/PI to ./archives/MitraInnovationRepo/20210401/PI.tar.gz...
+
+Updating repo (delta pull) "ape2"
+Backup git_backup/MitraInnovationRepo/ape2 to ./archives/MitraInnovationRepo/20210401/ape2.tar.gz...
+
+Updating repo (delta pull) "eb-future-pos"
+Backup git_backup/MitraInnovationRepo/eb-future-pos to ./archives/MitraInnovationRepo/20210401/eb-future-pos.tar.gz...
+
+Updating repo (delta pull) "GuardianMPS"
+Backup git_backup/MitraInnovationRepo/GuardianMPS to ./archives/MitraInnovationRepo/20210401/GuardianMPS.tar.gz...
+
+Updating repo (delta pull) "pizzahut-mobile-app"
+Backup git_backup/MitraInnovationRepo/pizzahut-mobile-app to ./archives/MitraInnovationRepo/20210401/pizzahut-mobile-app.tar.gz...
+
+Updating repo (delta pull) "PizzaHut"
+Backup git_backup/MitraInnovationRepo/PizzaHut to ./archives/MitraInnovationRepo/20210401/PizzaHut.tar.gz...
+
+Updating repo (delta pull) "resource-capacity-planning"
+Backup git_backup/MitraInnovationRepo/resource-capacity-planning to ./archives/MitraInnovationRepo/20210401/resource-capacity-planning.tar.gz...
+
+Updating repo (delta pull) "modernhardware"
+Backup git_backup/MitraInnovationRepo/modernhardware to ./archives/MitraInnovationRepo/20210401/modernhardware.tar.gz...
+
+Updating repo (delta pull) "ba-payment-gateway"
+Backup git_backup/MitraInnovationRepo/ba-payment-gateway to ./archives/MitraInnovationRepo/20210401/ba-payment-gateway.tar.gz...
+
+Updating repo (delta pull) "tp"
+Backup git_backup/MitraInnovationRepo/tp to ./archives/MitraInnovationRepo/20210401/tp.tar.gz...
+
+Updating repo (delta pull) "krydel-qt"
+Backup git_backup/MitraInnovationRepo/krydel-qt to ./archives/MitraInnovationRepo/20210401/krydel-qt.tar.gz...
+
+Updating repo (delta pull) "layby"
+Backup git_backup/MitraInnovationRepo/layby to ./archives/MitraInnovationRepo/20210401/layby.tar.gz...
+
+Updating repo (delta pull) "AWS"
+Backup git_backup/MitraInnovationRepo/AWS to ./archives/MitraInnovationRepo/20210401/AWS.tar.gz...
+
+Updating repo (delta pull) "mitraway"
+Backup git_backup/MitraInnovationRepo/mitraway to ./archives/MitraInnovationRepo/20210401/mitraway.tar.gz...
+
+Updating repo (delta pull) "wso2validationplugin"
+Backup git_backup/MitraInnovationRepo/wso2validationplugin to ./archives/MitraInnovationRepo/20210401/wso2validationplugin.tar.gz...
+
+Updating repo (delta pull) "react-native-base"
+Backup git_backup/MitraInnovationRepo/react-native-base to ./archives/MitraInnovationRepo/20210401/react-native-base.tar.gz...
+
+Updating repo (delta pull) "blue-squirrel"
+Backup git_backup/MitraInnovationRepo/blue-squirrel to ./archives/MitraInnovationRepo/20210401/blue-squirrel.tar.gz...
+
+Updating repo (delta pull) "praedictio"
+Backup git_backup/MitraInnovationRepo/praedictio to ./archives/MitraInnovationRepo/20210401/praedictio.tar.gz...
+
+Updating repo (delta pull) "tyche"
+Backup git_backup/MitraInnovationRepo/tyche to ./archives/MitraInnovationRepo/20210401/tyche.tar.gz...
+
+Updating repo (delta pull) "kennis"
+Backup git_backup/MitraInnovationRepo/kennis to ./archives/MitraInnovationRepo/20210401/kennis.tar.gz...
+
+Updating repo (delta pull) "praedictiov2"
+Backup git_backup/MitraInnovationRepo/praedictiov2 to ./archives/MitraInnovationRepo/20210401/praedictiov2.tar.gz...
+
+Updating repo (delta pull) "resource-management-visualizer"
+Backup git_backup/MitraInnovationRepo/resource-management-visualizer to ./archives/MitraInnovationRepo/20210401/resource-management-visualizer.tar.gz...
+
+Updating repo (delta pull) "theme-container"
+Backup git_backup/MitraInnovationRepo/theme-container to ./archives/MitraInnovationRepo/20210401/theme-container.tar.gz...
+
+Updating repo (delta pull) "kantar-worldpanel"
+Backup git_backup/MitraInnovationRepo/kantar-worldpanel to ./archives/MitraInnovationRepo/20210401/kantar-worldpanel.tar.gz...
+
+Updating repo (delta pull) "hr-system"
+Backup git_backup/MitraInnovationRepo/hr-system to ./archives/MitraInnovationRepo/20210401/hr-system.tar.gz...
+
+Updating repo (delta pull) "cerebral-palsy-detection"
+Backup git_backup/MitraInnovationRepo/cerebral-palsy-detection to ./archives/MitraInnovationRepo/20210401/cerebral-palsy-detection.tar.gz...
+
+Updating repo (delta pull) "Mitra-DevOps"
+Backup git_backup/MitraInnovationRepo/Mitra-DevOps to ./archives/MitraInnovationRepo/20210401/Mitra-DevOps.tar.gz...
+
+Updating repo (delta pull) "wso2-demo"
+Backup git_backup/MitraInnovationRepo/wso2-demo to ./archives/MitraInnovationRepo/20210401/wso2-demo.tar.gz...
+
+Updating repo (delta pull) "AzureCEG"
+Backup git_backup/MitraInnovationRepo/AzureCEG to ./archives/MitraInnovationRepo/20210401/AzureCEG.tar.gz...
+
+Updating repo (delta pull) "mmb"
+Backup git_backup/MitraInnovationRepo/mmb to ./archives/MitraInnovationRepo/20210401/mmb.tar.gz...
+
+Updating repo (delta pull) "COATS"
+Backup git_backup/MitraInnovationRepo/COATS to ./archives/MitraInnovationRepo/20210401/COATS.tar.gz...
+
+Updating repo (delta pull) "ballerina"
+Backup git_backup/MitraInnovationRepo/ballerina to ./archives/MitraInnovationRepo/20210401/ballerina.tar.gz...
+
+Updating repo (delta pull) "praedictioaws"
+Backup git_backup/MitraInnovationRepo/praedictioaws to ./archives/MitraInnovationRepo/20210401/praedictioaws.tar.gz...
+
+Updating repo (delta pull) "samaritan-asterisk"
+Backup git_backup/MitraInnovationRepo/samaritan-asterisk to ./archives/MitraInnovationRepo/20210401/samaritan-asterisk.tar.gz...
+
+Updating repo (delta pull) "tech_repository"
+Backup git_backup/MitraInnovationRepo/tech_repository to ./archives/MitraInnovationRepo/20210401/tech_repository.tar.gz...
+
+Updating repo (delta pull) "aws-ceg"
+Backup git_backup/MitraInnovationRepo/aws-ceg to ./archives/MitraInnovationRepo/20210401/aws-ceg.tar.gz...
+
+Updating repo (delta pull) "tkl"
+Backup git_backup/MitraInnovationRepo/tkl to ./archives/MitraInnovationRepo/20210401/tkl.tar.gz...
+
+Updating repo (delta pull) "jochen-sandbox"
+Backup git_backup/MitraInnovationRepo/jochen-sandbox to ./archives/MitraInnovationRepo/20210401/jochen-sandbox.tar.gz...
+
+Updating repo (delta pull) "arizon-digital"
+Backup git_backup/MitraInnovationRepo/arizon-digital to ./archives/MitraInnovationRepo/20210401/arizon-digital.tar.gz...
+
+Updating repo (delta pull) "dmhubspot"
+Backup git_backup/MitraInnovationRepo/dmhubspot to ./archives/MitraInnovationRepo/20210401/dmhubspot.tar.gz...
+
+Updating repo (delta pull) "presales"
+Backup git_backup/MitraInnovationRepo/presales to ./archives/MitraInnovationRepo/20210401/presales.tar.gz...
+
+Updating repo (delta pull) "ballerinalabs"
+Backup git_backup/MitraInnovationRepo/ballerinalabs to ./archives/MitraInnovationRepo/20210401/ballerinalabs.tar.gz...Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+
+
+Updating repo (delta pull) "ballerinahub"
+Backup git_backup/MitraInnovationRepo/ballerinahub to ./archives/MitraInnovationRepo/20210401/ballerinahub.tar.gz...
+
+Updating repo (delta pull) "ducont"
+Backup git_backup/MitraInnovationRepo/ducont to ./archives/MitraInnovationRepo/20210401/ducont.tar.gz...
+
+Updating repo (delta pull) "tp-connection-tester"
+Backup git_backup/MitraInnovationRepo/tp-connection-tester to ./archives/MitraInnovationRepo/20210401/tp-connection-tester.tar.gz...
+
+Updating repo (delta pull) "poc"
+Backup git_backup/MitraInnovationRepo/poc to ./archives/MitraInnovationRepo/20210401/poc.tar.gz...
+
+Updating repo (delta pull) "react-story-book"
+Backup git_backup/MitraInnovationRepo/react-story-book to ./archives/MitraInnovationRepo/20210401/react-story-book.tar.gz...
+
+Updating repo (delta pull) "react-baseline-theme"
+Backup git_backup/MitraInnovationRepo/react-baseline-theme to ./archives/MitraInnovationRepo/20210401/react-baseline-theme.tar.gz...
+
+Updating repo (delta pull) "resource_planner_internal"
+Backup git_backup/MitraInnovationRepo/resource_planner_internal to ./archives/MitraInnovationRepo/20210401/resource_planner_internal.tar.gz...
+
+Updating repo (delta pull) "OpenBanking"
+Backup git_backup/MitraInnovationRepo/OpenBanking to ./archives/MitraInnovationRepo/20210401/OpenBanking.tar.gz...
+
+Updating repo (delta pull) "uoe-cmrs"
+Backup git_backup/MitraInnovationRepo/uoe-cmrs to ./archives/MitraInnovationRepo/20210401/uoe-cmrs.tar.gz...
+
+Updating repo (delta pull) "cellcard_api_project"
+Backup git_backup/MitraInnovationRepo/cellcard_api_project to ./archives/MitraInnovationRepo/20210401/cellcard_api_project.tar.gz...
+
+Updating repo (delta pull) "shuttle-spy"
+Backup git_backup/MitraInnovationRepo/shuttle-spy to ./archives/MitraInnovationRepo/20210401/shuttle-spy.tar.gz...
+
+Updating repo (delta pull) "bootcamp"
+Backup git_backup/MitraInnovationRepo/bootcamp to ./archives/MitraInnovationRepo/20210401/bootcamp.tar.gz...
+
+Updating repo (delta pull) "cucumber-test"
+Backup git_backup/MitraInnovationRepo/cucumber-test to ./archives/MitraInnovationRepo/20210401/cucumber-test.tar.gz...
+
+Updating repo (delta pull) "api-testing-restassured"
+Backup git_backup/MitraInnovationRepo/api-testing-restassured to ./archives/MitraInnovationRepo/20210401/api-testing-restassured.tar.gz...
+
+Updating repo (delta pull) "hook-utility"
+Backup git_backup/MitraInnovationRepo/hook-utility to ./archives/MitraInnovationRepo/20210401/hook-utility.tar.gz...
+
+Updating repo (delta pull) "mft-client"
+Backup git_backup/MitraInnovationRepo/mft-client to ./archives/MitraInnovationRepo/20210401/mft-client.tar.gz...
+
+Updating repo (delta pull) "test-support"
+Backup git_backup/MitraInnovationRepo/test-support to ./archives/MitraInnovationRepo/20210401/test-support.tar.gz...
+
+Updating repo (delta pull) "docker-client"
+Backup git_backup/MitraInnovationRepo/docker-client to ./archives/MitraInnovationRepo/20210401/docker-client.tar.gz...
+
+Updating repo (delta pull) "samba-client"
+Backup git_backup/MitraInnovationRepo/samba-client to ./archives/MitraInnovationRepo/20210401/samba-client.tar.gz...
+
+Updating repo (delta pull) "ssh-client"
+Backup git_backup/MitraInnovationRepo/ssh-client to ./archives/MitraInnovationRepo/20210401/ssh-client.tar.gz...
+
+Updating repo (delta pull) "wso2-logger"
+Backup git_backup/MitraInnovationRepo/wso2-logger to ./archives/MitraInnovationRepo/20210401/wso2-logger.tar.gz...
+
+Updating repo (delta pull) "dss-wrapper-proxy"
+Backup git_backup/MitraInnovationRepo/dss-wrapper-proxy to ./archives/MitraInnovationRepo/20210401/dss-wrapper-proxy.tar.gz...
+
+Updating repo (delta pull) "enrichment"
+Backup git_backup/MitraInnovationRepo/enrichment to ./archives/MitraInnovationRepo/20210401/enrichment.tar.gz...
+
+Updating repo (delta pull) "Encryptor"
+Backup git_backup/MitraInnovationRepo/Encryptor to ./archives/MitraInnovationRepo/20210401/Encryptor.tar.gz...
+
+Updating repo (delta pull) "router"
+Backup git_backup/MitraInnovationRepo/router to ./archives/MitraInnovationRepo/20210401/router.tar.gz...
+
+Updating repo (delta pull) "windows-authenticator"
+Backup git_backup/MitraInnovationRepo/windows-authenticator to ./archives/MitraInnovationRepo/20210401/windows-authenticator.tar.gz...
+
+Updating repo (delta pull) "splitter"
+Backup git_backup/MitraInnovationRepo/splitter to ./archives/MitraInnovationRepo/20210401/splitter.tar.gz...
+
+Updating repo (delta pull) "aggregator"
+Backup git_backup/MitraInnovationRepo/aggregator to ./archives/MitraInnovationRepo/20210401/aggregator.tar.gz...
+
+Updating repo (delta pull) "sftp-wrapper-proxy"
+Backup git_backup/MitraInnovationRepo/sftp-wrapper-proxy to ./archives/MitraInnovationRepo/20210401/sftp-wrapper-proxy.tar.gz...
+
+Updating repo (delta pull) "json-validator"
+Backup git_backup/MitraInnovationRepo/json-validator to ./archives/MitraInnovationRepo/20210401/json-validator.tar.gz...
+
+Updating repo (delta pull) "wso2-project-generator"
+Backup git_backup/MitraInnovationRepo/wso2-project-generator to ./archives/MitraInnovationRepo/20210401/wso2-project-generator.tar.gz...
+
+Updating repo (delta pull) "performance-test-support"
+Backup git_backup/MitraInnovationRepo/performance-test-support to ./archives/MitraInnovationRepo/20210401/performance-test-support.tar.gz...
+
+Updating repo (delta pull) "aws-utils"
+Backup git_backup/MitraInnovationRepo/aws-utils to ./archives/MitraInnovationRepo/20210401/aws-utils.tar.gz...
+
+Updating repo (delta pull) "docs"
+Backup git_backup/MitraInnovationRepo/docs to ./archives/MitraInnovationRepo/20210401/docs.tar.gz...
+
+Updating repo (delta pull) "archetypes-project-generator"
+Backup git_backup/MitraInnovationRepo/archetypes-project-generator to ./archives/MitraInnovationRepo/20210401/archetypes-project-generator.tar.gz...
+
+Updating repo (delta pull) "terraform"
+Backup git_backup/MitraInnovationRepo/terraform to ./archives/MitraInnovationRepo/20210401/terraform.tar.gz...
+
+Updating repo (delta pull) "ansible"
+Backup git_backup/MitraInnovationRepo/ansible to ./archives/MitraInnovationRepo/20210401/ansible.tar.gz...
+
+Updating repo (delta pull) "wso2-deployment-ansible"
+Backup git_backup/MitraInnovationRepo/wso2-deployment-ansible to ./archives/MitraInnovationRepo/20210401/wso2-deployment-ansible.tar.gz...
+
+Updating repo (delta pull) "wso2-secure-vault-client"
+Backup git_backup/MitraInnovationRepo/wso2-secure-vault-client to ./archives/MitraInnovationRepo/20210401/wso2-secure-vault-client.tar.gz...
+
+Updating repo (delta pull) "jdbc-log-appender"
+Backup git_backup/MitraInnovationRepo/jdbc-log-appender to ./archives/MitraInnovationRepo/20210401/jdbc-log-appender.tar.gz...
+
+Updating repo (delta pull) "xml-visualiser"
+Backup git_backup/MitraInnovationRepo/xml-visualiser to ./archives/MitraInnovationRepo/20210401/xml-visualiser.tar.gz...
+
+Updating repo (delta pull) "api-testing-karate"
+Backup git_backup/MitraInnovationRepo/api-testing-karate to ./archives/MitraInnovationRepo/20210401/api-testing-karate.tar.gz...
+
+Updating repo (delta pull) "api-testing-postman"
+Backup git_backup/MitraInnovationRepo/api-testing-postman to ./archives/MitraInnovationRepo/20210401/api-testing-postman.tar.gz...
+
+Updating repo (delta pull) "wso2ei-project-generator"
+Backup git_backup/MitraInnovationRepo/wso2ei-project-generator to ./archives/MitraInnovationRepo/20210401/wso2ei-project-generator.tar.gz...
+
+Updating repo (delta pull) "api-testing-jmeter"
+Backup git_backup/MitraInnovationRepo/api-testing-jmeter to ./archives/MitraInnovationRepo/20210401/api-testing-jmeter.tar.gz...
+
+Updating repo (delta pull) "terraform-aws-codepipeline"
+Backup git_backup/MitraInnovationRepo/terraform-aws-codepipeline to ./archives/MitraInnovationRepo/20210401/terraform-aws-codepipeline.tar.gz...
+
+Updating repo (delta pull) "cucumber-performance-testing-framework"
+Backup git_backup/MitraInnovationRepo/cucumber-performance-testing-framework to ./archives/MitraInnovationRepo/20210401/cucumber-performance-testing-framework.tar.gz...
+
+Updating repo (delta pull) "student-management"
+Backup git_backup/MitraInnovationRepo/student-management to ./archives/MitraInnovationRepo/20210401/student-management.tar.gz...
+
+Updating repo (delta pull) "project-transparent"Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+Already up to date.
+
+Backup git_backup/MitraInnovationRepo/project-transparent to ./archives/MitraInnovationRepo/20210401/project-transparent.tar.gz...
+
+Updating repo (delta pull) "hello-spring-boot"
+Backup git_backup/MitraInnovationRepo/hello-spring-boot to ./archives/MitraInnovationRepo/20210401/hello-spring-boot.tar.gz...
+
+Updating repo (delta pull) "terraform-aws-ec2-sample-app"
+Backup git_backup/MitraInnovationRepo/terraform-aws-ec2-sample-app to ./archives/MitraInnovationRepo/20210401/terraform-aws-ec2-sample-app.tar.gz...
+
+Updating repo (delta pull) "credit-360"
+Backup git_backup/MitraInnovationRepo/credit-360 to ./archives/MitraInnovationRepo/20210401/credit-360.tar.gz...
+
+Updating repo (delta pull) "terraform-aws-api-newman-test"
+Backup git_backup/MitraInnovationRepo/terraform-aws-api-newman-test to ./archives/MitraInnovationRepo/20210401/terraform-aws-api-newman-test.tar.gz...
+
+Updating repo (delta pull) "customer-insight"
+Backup git_backup/MitraInnovationRepo/customer-insight to ./archives/MitraInnovationRepo/20210401/customer-insight.tar.gz...
