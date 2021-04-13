@@ -1,0 +1,8 @@
+README.md
+gitback.py
+setup.py
+gitback.egg-info/PKG-INFO
+gitback.egg-info/SOURCES.txt
+gitback.egg-info/dependency_links.txt
+gitback.egg-info/requires.txt
+gitback.egg-info/top_level.txt

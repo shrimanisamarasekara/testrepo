@@ -1,0 +1,1 @@
+python3 -m gitback -o <your_github_orgname> -d git_backup -t <base64_encoded_github_pat> --shallow
